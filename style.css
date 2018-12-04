@@ -1,0 +1,42 @@
+body {
+  background-image: url("https://www.howtogeek.com/wp-content/uploads/2017/02/2017-02-07_11h49_58-650x300.png");
+  
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+#keyboard {
+    display:inline-block;
+    padding:10px;
+    border:1px solid ;
+    border-radius:10px;
+    text-align:center;
+    
+ }
+#keyboard div {
+    margin:5px;
+ }
+#space {
+    width:184px;
+  
+ }
+#keyboard label {
+    font-family:serif;
+ }
+
+#keyboard input {
+    box-shadow:2px 2px 2px;
+ }
+#keyboard input[type="text"] {
+    margin-top:20px;
+    border:1px solid;
+    border-radius:4px;
+    box-shadow:none;
+ }
+
+
+
